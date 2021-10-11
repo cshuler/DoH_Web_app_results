@@ -1,0 +1,93 @@
+{
+  "showLegend": true,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "179ce9832ab-layer-28": {
+      "display": true,
+      "group": ""
+    },
+    "179ce976efe-layer-27": {
+      "display": true,
+      "group": ""
+    },
+    "179ce973ddb-layer-26": {
+      "display": true,
+      "group": ""
+    },
+    "179ce890634-layer-20": {
+      "display": false,
+      "group": "NRCS"
+    },
+    "179ce8aa659-layer-21": {
+      "display": false,
+      "group": "NRCS"
+    },
+    "179ce8b45c6-layer-22": {
+      "display": false,
+      "group": "NRCS"
+    },
+    "179ce8b8c31-layer-23": {
+      "display": false,
+      "group": "NRCS"
+    },
+    "179ce3ba782-layer-14": {
+      "display": true,
+      "group": ""
+    },
+    "179ce3c7f3f-layer-15": {
+      "display": true,
+      "group": ""
+    },
+    "179ce3e51fe-layer-16": {
+      "display": true,
+      "group": ""
+    },
+    "179ce3f74cd-layer-18": {
+      "display": true,
+      "group": ""
+    },
+    "179ce60a9fa-layer-11": {
+      "display": true,
+      "group": "Wells"
+    },
+    "179ce60da09-layer-12": {
+      "display": true,
+      "group": "Wells"
+    },
+    "179ce3f3b2a-layer-17": {
+      "display": true,
+      "group": "Wells"
+    },
+    "179ce3faaa6-layer-19": {
+      "display": true,
+      "group": "Wells"
+    },
+    "179ce3ffb8a-layer-20": {
+      "display": true,
+      "group": "Wells"
+    },
+    "179ce4028bc-layer-21": {
+      "display": true,
+      "group": "Wells"
+    },
+    "179aaa21e34-layer-13": {
+      "display": true,
+      "group": "In relation to"
+    },
+    "179ce612012-layer-14": {
+      "display": true,
+      "group": "In relation to"
+    },
+    "179ce6170ff-layer-15": {
+      "display": true,
+      "group": "In relation to"
+    }
+  }
+}

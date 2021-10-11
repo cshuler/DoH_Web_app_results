@@ -1,0 +1,21 @@
+{
+  "showLegend": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "17c641041c3-layer-9": {
+      "display": true,
+      "group": "Cesspools"
+    },
+    "17c641041c2-layer-8": {
+      "display": true,
+      "group": "Census Tracts"
+    }
+  }
+}
